@@ -1,4 +1,4 @@
-package org.acme;
+package ports.adapters.quarkus;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

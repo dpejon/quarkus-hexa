@@ -1,4 +1,4 @@
-package org.acme;
+package ports.adapters.quarkus;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
